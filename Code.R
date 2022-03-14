@@ -1,4 +1,5 @@
 # Creando un diagrama de puntos con ggplot
+# Cargando paquetes
 data()
 library(tidyverse)
 # Trabajando con BOD
